@@ -119,7 +119,7 @@ nav {
   place-content: center;
   margin: 20px;
 }
-.product-card {
+.product-card{
   width: 240px;
 }
 .product-card img {
@@ -431,7 +431,8 @@ a{
 
   }
   .product-detail {
-    width: 100%;
+    
+    right: -640px;
   }
 }
 
